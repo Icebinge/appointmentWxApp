@@ -1,0 +1,30 @@
+{
+  "appid": "wx8b03d10806d7a70b",
+  "compileType": "miniprogram",
+  "libVersion": "3.5.3",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "coverView": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "enhance": true,
+    "showShadowRootInWxmlPanel": true,
+    "packNpmRelationList": [],
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  // 这里加云函数路径
+  "cloudfunctionRoot": "cloudfunctions/"
+}
